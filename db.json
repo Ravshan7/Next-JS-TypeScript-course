@@ -1,0 +1,19 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Начальный курс Next JS",
+      "price": "3000c"
+    },
+    {
+      "id": 2,
+      "title": "Средный курс Next JS",
+      "price": "7300c"
+    },
+    {
+      "id": 3,
+      "title": "Продвинутый курс NextJS",
+      "price": "12800c"
+    }
+  ]
+}
